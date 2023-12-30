@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 
 plugins:
   - jekyll-feed # 元から入っている
