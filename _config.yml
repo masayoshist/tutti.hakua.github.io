@@ -1,5 +1,4 @@
-# theme: mininma
-remote_theme: fongandrew/hydeout
+theme: jekyll-theme-architect
 
 plugins:
   - jekyll-feed # 元から入っている
