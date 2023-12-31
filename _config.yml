@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-primer
 
 plugins:
   - jekyll-feed # 元から入っている
