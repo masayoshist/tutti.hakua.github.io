@@ -1,9 +1,5 @@
 # コンパス
 
-<https://hakua-yakuin.atlassian.net/wiki/spaces/2024/pages/22282241>
-
-* * *
-
 # コンパス・オブ・ユア・ハート
 
 ## はじめに
